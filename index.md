@@ -20,12 +20,13 @@
   <p>
     I’m a passionate full-stack developer with practical experience in building robust systems using the
     <strong>MERN stack</strong>, <strong>Python</strong>, and <strong>SQL databases</strong>.<br>
-    I love solving real-world problems with technology, be it automating hotel reception using voice bots,
+    I love solving real-world problems with technology—be it automating hotel reception using voice bots,
     optimizing class schedules with AI, or building real-time cricket dashboards.<br><br>
-    Currently exploring the intersection of AI and backend development, I thrive in collaborative environments
-    and enjoy bringing ideas to life from scratch.
+    Recently, I also developed a live <strong>e-commerce website for a pet store</strong> as a client project:
+    <a href="https://elclubllc.com/" target="_blank">View Website</a> 🐾
   </p>
 </div>
+
 
 <hr>
 
