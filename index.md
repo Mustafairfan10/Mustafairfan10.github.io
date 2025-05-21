@@ -1,123 +1,45 @@
+# Hi, I'm Mustafa Irfan 👋
+
+🎓 Final Year BSCS student at FAST-NUCES, Islamabad  
+💻 Full-Stack Developer | Python Enthusiast | AI Explorer  
+
 ---
-layout: default
+
+## 🧠 About Me
+
+I’m a passionate full-stack developer with practical experience in building robust systems using the **MERN stack**, **Python**, and **SQL databases**. I love solving real-world problems with technology—be it automating hotel reception using voice bots, optimizing class schedules with AI, or building real-time cricket dashboards.
+
+Currently exploring the intersection of AI and backend development, I thrive in collaborative environments and enjoy bringing ideas to life from scratch.
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## 💼 Projects
 
-[Link to another page](./another-page.html).
+### 🔊 vocalConcierge – Hotel Reception Voice Bot
+**Tech:** Python, MERN, NLP  
+Developed an AI-powered voice assistant for hotel receptions that answers calls and responds to guest inquiries about room availability and bookings, reducing manual workload.
 
-There should be whitespace between paragraphs.
+### 🧮 AI-Based Time Table Scheduler
+**Tech:** Python, Genetic Algorithms  
+Built a conflict-free timetable generator that considers multiple constraints like room capacity, teacher availability, and course distribution using optimization techniques.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### 🏏 Cricket Management System
+**Tech:** MERN Stack  
+Built a live cricket portal using external APIs, featuring user authentication, live score updates, and a social component for cricket fans.
 
-# Header 1
+### 🛒 ShopVerse – Online Marketplace
+**Tech:** MySQL, MERN, WinForms  
+Developed an e-commerce system for managing users, products, and transactions with features like inventory management and transaction tracking.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## 📬 Get in Touch
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- 📧 Email: [mustafairfan985@gmail.com](mailto:mustafairfan985@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mustafa-irfan10)
+- 💻 [GitHub](https://github.com/Mustafairfan10)
+- 📄 [Download Resume](MustafaIrfan_SoftwareEngineer.pdf)
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Thanks for visiting! 👨‍💻
