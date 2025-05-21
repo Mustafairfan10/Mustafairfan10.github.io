@@ -83,6 +83,9 @@
   <img src="/assets/img/game1.png" alt="Operation Nexus Screenshot 1" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
   <img src="/assets/img/game2.png" alt="Operation Nexus Screenshot 2" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
   <img src="/assets/img/game3.png" alt="Operation Nexus Screenshot 3" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/img/game4.png" alt="Operation Nexus Screenshot 3" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/img/game5.png" alt="Operation Nexus Screenshot 3" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/img/game6.png" alt="Operation Nexus Screenshot 3" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
   <p>
     Developed a first-person shooter (FPS) game named Operation Nexus using Unity.<br>
     Features immersive gameplay with custom AI enemies, dynamic weapons, and multiplayer support.<br>
