@@ -16,7 +16,7 @@
 <hr>
 
 <div data-aos="fade-up" data-aos-delay="100">
-  <h2>🧠 About Me</h2>
+  <h2>💡 About Me</h2>
   <p>
     I’m a passionate full-stack developer with practical experience in building robust systems using the
     <strong>MERN stack</strong>, <strong>Python</strong>, and <strong>SQL databases</strong>.<br>
