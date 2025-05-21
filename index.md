@@ -35,62 +35,67 @@
 
 <div data-aos="fade-right" data-aos-delay="300">
   <h3>🔊 vocalConcierge – Hotel Reception Voice Bot</h3>
-  <img src="/assets/img/vocalConcierge.png" alt="vocalConcierge Project Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
-  <p>
+    <p>
     <strong>Tech:</strong> Python, MERN, NLP<br>
     Developed an AI-powered voice assistant for hotel receptions that answers calls and responds to guest inquiries about
     room availability and bookings, reducing manual workload.
   </p>
+  <img src="/assets/img/vocalConcierge.png" alt="vocalConcierge Project Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+
 </div>
 
 <div data-aos="fade-right" data-aos-delay="400">
   <h3>🧠 AI-Based Time Table Scheduler</h3>
-  <img src="/assets/img/timetable.png" alt="Time Table Scheduler Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
-  <p>
+    <p>
     <strong>Tech:</strong> Python, Genetic Algorithms<br>
     Built a conflict-free timetable generator that considers multiple constraints like room capacity,
     teacher availability, and course distribution using optimization techniques.
   </p>
+  <img src="/assets/img/timetable.png" alt="Time Table Scheduler Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+
 </div>
 
 <div data-aos="fade-right" data-aos-delay="500">
   <h3>🏏 Cricket Management System</h3>
-  <img src="/assets/img/webProj1.png" alt="Cricket Management System Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
-  <img src="/assets/img/webProj2.png" alt="Cricket Management System Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
-  <img src="/assets/img/webProj3.png" alt="Cricket Management System Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
-  <p>
+    <p>
     <strong>Tech:</strong> MERN Stack<br>
     Built a live cricket portal using external APIs, featuring user authentication, live score updates, and
     a social component for cricket fans.
   </p>
+  <img src="/assets/img/webProj1.png" alt="Cricket Management System Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/img/webProj2.png" alt="Cricket Management System Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/img/webProj3.png" alt="Cricket Management System Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+
 </div>
 
 <div data-aos="fade-right" data-aos-delay="600">
   <h3>🛒 ShopVerse – Online Marketplace</h3>
-  <img src="/assets/img/dbProj1.png" alt="ShopVerse Project Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
-  <img src="/assets/img/dbProj2.png" alt="ShopVerse Project Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
-  <img src="/assets/img/dbProj3.png" alt="ShopVerse Project Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
-  <p>
+    <p>
     <strong>Tech:</strong> MySQL, MERN, WinForms<br>
     Developed an e-commerce system for managing users, products, and transactions with features like inventory
     management and transaction tracking.
   </p>
+  <img src="/assets/img/dbProj1.png" alt="ShopVerse Project Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/img/dbProj2.png" alt="ShopVerse Project Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/img/dbProj3.png" alt="ShopVerse Project Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+
 </div>
 
 <!-- New Game Development Project -->
 <div data-aos="fade-right" data-aos-delay="700">
   <h3>🎮 Operation Nexus – FPS Game Development</h3>
+    <p>
+    Developed a first-person shooter (FPS) game named Operation Nexus using Unity.<br>
+    Features immersive gameplay with custom AI enemies, dynamic weapons, and multiplayer support.<br>
+    <a href="https://drive.google.com/your-drive-link" target="_blank">Watch full game screen recording</a>
+  </p>
   <img src="/assets/img/game1.png" alt="Operation Nexus Screenshot 1" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
   <img src="/assets/img/game2.png" alt="Operation Nexus Screenshot 2" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
   <img src="/assets/img/game3.png" alt="Operation Nexus Screenshot 3" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
   <img src="/assets/img/game4.png" alt="Operation Nexus Screenshot 3" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
   <img src="/assets/img/game5.png" alt="Operation Nexus Screenshot 3" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
   <img src="/assets/img/game6.png" alt="Operation Nexus Screenshot 3" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
-  <p>
-    Developed a first-person shooter (FPS) game named Operation Nexus using Unity.<br>
-    Features immersive gameplay with custom AI enemies, dynamic weapons, and multiplayer support.<br>
-    <a href="https://drive.google.com/your-drive-link" target="_blank">Watch full game screen recording</a>
-  </p>
+
 </div>
 
 <hr>
