@@ -79,6 +79,7 @@
     <li>🔗 <a href="https://linkedin.com/in/mustafa-irfan10" target="_blank">LinkedIn</a></li>
     <li>💻 <a href="https://github.com/Mustafairfan10" target="_blank">GitHub</a></li>
     <li>📄 <a href="MustafaIrfan_SoftwareEngineer.pdf" target="_blank">Download Resume</a></li>
+    <p>🌐 <a href="https://divlynx-inc-website.web.app/" target="_blank">Explore one of the platforms I've recently built</a></p>
   </ul>
 </div>
 
