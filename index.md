@@ -55,7 +55,9 @@
 
 <div data-aos="fade-right" data-aos-delay="500">
   <h3>🏏 Cricket Management System</h3>
-  <img src="/assets/img/cricket.png" alt="Cricket Management System Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/img/webProj1.png" alt="Cricket Management System Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/img/webProj2.png" alt="Cricket Management System Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/img/webProj3.png" alt="Cricket Management System Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
   <p>
     <strong>Tech:</strong> MERN Stack<br>
     Built a live cricket portal using external APIs, featuring user authentication, live score updates, and
