@@ -87,7 +87,7 @@
     <p>
     Developed a first-person shooter (FPS) game named Operation Nexus using Unity.<br>
     Features immersive gameplay with custom AI enemies, dynamic weapons, and multiplayer support.<br>
-    <a href="https://drive.google.com/your-drive-link" target="_blank">Watch full game screen recording</a>
+    <a href="https://drive.google.com/drive/folders/1hlGF7Npm0qYszwUY3nKLqWPzrMsimolI?usp=drive_link">Watch full game screen recording</a>
   </p>
   <img src="/assets/img/game1.png" alt="Operation Nexus Screenshot 1" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
   <img src="/assets/img/game2.png" alt="Operation Nexus Screenshot 2" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
