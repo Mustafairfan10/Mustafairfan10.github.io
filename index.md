@@ -67,7 +67,9 @@
 
 <div data-aos="fade-right" data-aos-delay="600">
   <h3>🛒 ShopVerse – Online Marketplace</h3>
-  <img src="/assets/img/shopverse.png" alt="ShopVerse Project Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/img/dbProj1.png" alt="ShopVerse Project Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/img/dbProj2.png" alt="ShopVerse Project Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/img/dbProj3.png" alt="ShopVerse Project Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
   <p>
     <strong>Tech:</strong> MySQL, MERN, WinForms<br>
     Developed an e-commerce system for managing users, products, and transactions with features like inventory
