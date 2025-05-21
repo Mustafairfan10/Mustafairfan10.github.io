@@ -6,7 +6,7 @@
 </script>
 
 <div data-aos="fade-up">
-  <h1>Hi, I'm Mustafa Irfan 👋</h1>
+  <h1>Hi, I'm Mustafa Irfan</h1>
   <p>
     🎓 Final Year BSCS student at FAST-NUCES, Islamabad<br>
     💻 Full-Stack Developer | Python Enthusiast | AI Explorer
