@@ -35,7 +35,7 @@
 
 <div data-aos="fade-right" data-aos-delay="300">
   <h3>🔊 vocalConcierge – Hotel Reception Voice Bot</h3>
-  <img src="/assets/img/vocalconcierge.png" alt="vocalConcierge Project Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/img/vocalConcierge.png" alt="vocalConcierge Project Screenshot" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
   <p>
     <strong>Tech:</strong> Python, MERN, NLP<br>
     Developed an AI-powered voice assistant for hotel receptions that answers calls and responds to guest inquiries about
