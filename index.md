@@ -77,9 +77,22 @@
   </p>
 </div>
 
+<!-- New Game Development Project -->
+<div data-aos="fade-right" data-aos-delay="700">
+  <h3>🎮 Operation Nexus – FPS Game Development</h3>
+  <img src="/assets/img/game1.png" alt="Operation Nexus Screenshot 1" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/img/game2.png" alt="Operation Nexus Screenshot 2" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <img src="/assets/img/game3.png" alt="Operation Nexus Screenshot 3" style="width:100%; max-width:400px; border-radius:8px; margin-bottom:1rem;">
+  <p>
+    Developed a first-person shooter (FPS) game named Operation Nexus using Unity.<br>
+    Features immersive gameplay with custom AI enemies, dynamic weapons, and multiplayer support.<br>
+    <a href="https://drive.google.com/your-drive-link" target="_blank">Watch full game screen recording</a>
+  </p>
+</div>
+
 <hr>
 
-<div data-aos="fade-up" data-aos-delay="700">
+<div data-aos="fade-up" data-aos-delay="800">
   <h2>📬 Get in Touch</h2>
   <ul>
     <li>📧 Email: <a href="mailto:mustafairfan985@gmail.com">mustafairfan985@gmail.com</a></li>
@@ -92,6 +105,6 @@
 
 <hr>
 
-<div data-aos="fade" data-aos-delay="800">
+<div data-aos="fade" data-aos-delay="900">
   <p style="text-align:center">Thanks for visiting! 🙏</p>
 </div>
