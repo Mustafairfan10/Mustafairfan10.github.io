@@ -1,6 +1,8 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Mustafa Irfan | Full-Stack Developer
+description: Full-Stack Developer with hands-on experience in MERN, Python, and AI. Passionate about building efficient backend systems, clean UIs, and real-time AI solutions.
+logo: /assets/img/profile.png # Add this image to your repo if desired
+email: mustafairfan985@gmail.com
+linkedin_username: mustafa-irfan10
+github_username: Mustafairfan10
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-minimal
